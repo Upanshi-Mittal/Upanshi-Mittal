@@ -39,6 +39,15 @@ Currently juggling JavaScript, Python, and my existential dread about semicolons
 - 🌐 Making websites blink, bounce & break — `Web Dev Shenanigans`
 - 🧠 Pretending to understand neural networks — lowkey `AI stuff`
 
+## 📢 Connect with Me:
+<p align="left">
+  <a href="mailto:upanshimittal7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/upanshi-mittal-498213320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ## 🧠 Fun facts (read: red flags):
 - I once spent 2 hours fixing a bug caused by a missing comma
