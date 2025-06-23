@@ -52,7 +52,6 @@ Currently juggling JavaScript, Python, and my existential dread about semicolons
 ## 🧠 Fun facts (read: red flags):
 - I once spent 2 hours fixing a bug caused by a missing comma
 - I explain my code to my rubber duck, and it judges me silently
-- I still believe `sudo` is just a fancy way of saying “I’m the boss now”
 
 ## 💌 Let’s vibe:
 If you love chaotic commits, half-finished side projects, or just wanna talk code and coffee...  
