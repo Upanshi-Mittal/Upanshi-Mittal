@@ -49,14 +49,8 @@ Currently juggling JavaScript, Python, and my existential dread about semicolons
   </a>
 </p>
 
-## 🧠 Fun facts (read: red flags):
-- I once spent 2 hours fixing a bug caused by a missing comma
-- I explain my code to my rubber duck, and it judges me silently
-
 ## 💌 Let’s vibe:
 If you love chaotic commits, half-finished side projects, or just wanna talk code and coffee...  
 [Drop a follow](https://github.com/Upanshi-Mittal) and let's make some magic happen 💫
 
----
-> “Code like nobody's watching... because your GitHub stats *are*.”  
-— *Probably Me*
+
