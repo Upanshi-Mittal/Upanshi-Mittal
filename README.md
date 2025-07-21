@@ -3,7 +3,7 @@ I’m **Upanshi Mittal** — a full-stack MERN sorceress by day, ML explorer by 
 Still battling semicolons... but bugs run when they hear my keyboard 🧙‍♀️⌨️
 
 ## ⚡ Currently Juggling:
-`JavaScript` • `Python` • `Rust` • `C++` • `C` • `Machine Learning` • `MongoDB` • `Express` • `React` • `Node.js`
+`JavaScript` • `Python` • `Rust` • `C++` •`Machine Learning` •
 
 ## 🛠️ My Dev Toolkit:
 <p align="left">
