@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <strong>Upanshi Mittal</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A653F5&size=24&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Hackmate+%F0%9F%94%A5;Always+Learning+New+Tech+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Always+Learning+New+Tech+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -68,9 +68,6 @@
 
 ---
 
-  <a href="https://www.linkedin.com/in/upanshi-mittal-498213320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 > 💫 Into code, chaos, and coffee-fueled curiosity.
