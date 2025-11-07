@@ -12,6 +12,7 @@
 - 💻 Loves working with **FastAPI**, **React**, **MongoDB**, **Node.js**, **C++**, and **Python**  
 - 🌱 Always exploring new technologies & improving my craft  
 ---
+*************************************************************************************************
 
 # ⚙️ Tech Stack & Tools
 
@@ -20,21 +21,27 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
+*************************************************************************************************
+
 ### **🛠️ Frameworks & Libraries**
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,fastapi,nodejs,express" />
 </p>
 
+*************************************************************************************************
+
 ### **🗄️ Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+*************************************************************************************************
 ### **⚙️ Tools**
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,shadcn" />
 </p>
 
+*************************************************************************************************
 ---
 
 ---
@@ -50,26 +57,6 @@
   <img src="https://streak-stats.demolab.com/?user=Upanshi-Mittal&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🎯 Currently Working On
-- 🧩 Hackmate Dashboard UI  
-- 🤖 GitHub scoring & ML-based team assignment  
-- 🔒 Authentication system  
-- 🧠 Improving backend design & architecture  
-- ⚡ Transitioning to full-stack developer
-
----
-
-# 🌱 Learning Journey
-- ✅ MERN Backend  
-- ✅ FastAPI + MongoDB  
-- ✅ C++ OOP & DSA  
-- 🔄 Next.js 14 / App Router  
-- 🔄 Advanced Node.js  
-- 🌐 Web Security (JWT, OAuth, CORS)
-
----
 
 # 📬 Connect With Me
 
