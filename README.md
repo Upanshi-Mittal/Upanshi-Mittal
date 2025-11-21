@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Hi! I’m Upanshi — professionally powered by cold coffee and a lot of curiosity..
 I learn tech the same way people open tabs:
@@ -8,7 +8,7 @@ Right now I’m bouncing between Python, web dev, backend, machine learning, and
 If I’m not coding, I’m probably still thinking about coding — or pretending I’m not.
 That’s basically the entire character arc.
 
-# Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/upanshi-mittal"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
