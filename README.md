@@ -11,7 +11,6 @@ That’s basically the entire character arc.
 # Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Upanshi-Mittal"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
   <a href="https://www.linkedin.com/in/upanshi-mittal"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
   <a href="mail to:upanshimittal7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
 </p>
